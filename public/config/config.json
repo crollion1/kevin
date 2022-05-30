@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x1E79F8D15B8eC8F25ed1133d8590819A9e5FA3c5",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0x1E79F8D15B8eC8F25ed1133d8590819A9e5FA3c5",
+  "NETWORK": {
+    "NAME": "Avalanche Fuji TestNet",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "Cai$hen",
+  "SYMBOL": "Cai$hen",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 300000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://NFTrade.com",
+  "Telegram": "https://",
+  "Discord": "https://discord.gg/Ghc4Ghy7HM",
+  "Twitter": "https://twitter.com/Caish3n",
+  "SHOW_BACKGROUND": false
+}
